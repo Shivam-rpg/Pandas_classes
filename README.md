@@ -1,4 +1,4 @@
-# 🐼 Pandas Learning Series (Class 1–5)
+# 🐼 Pandas Learning Series (Class 1–9)
 
 This repository contains a **beginner-friendly Pandas learning series** implemented using Jupyter Notebooks.
 It covers the **fundamentals of data analysis using Python and Pandas**, starting from basic data structures to filtering, sorting, and statistics.
